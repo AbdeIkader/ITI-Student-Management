@@ -24,7 +24,7 @@ Follow these steps to set up and run the project on your machine 👇
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/AbdeIkader/ITI-Student-Management.git
-cd iti-student-management
+cd iti_proj
 
 ### 2️⃣ Create a virtual environment
 
